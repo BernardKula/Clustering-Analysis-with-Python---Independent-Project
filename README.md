@@ -19,14 +19,14 @@ your findings.
 You will be required to go through the following stages:
 ● Define the Research Question<br />
 ● Data Importation<br />
-● Data Exploration
-● Data Cleaning
-● Data Analysis (Univariate and Bivariate)
-● Data Preparation
-● Data Modeling
-● Model Evaluation
-● Recommendations / Conclusion
-● Challenging your Solution
+● Data Exploration<br />
+● Data Cleaning<br />
+● Data Analysis (Univariate and Bivariate)<br />
+● Data Preparation<br />
+● Data Modeling<br />
+● Model Evaluation<br />
+● Recommendations / Conclusion<br />
+● Challenging your Solution<br />
 Study your data carefully before implementing your solution.
 
 ## Dataset
