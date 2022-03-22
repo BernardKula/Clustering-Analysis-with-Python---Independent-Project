@@ -17,8 +17,8 @@ highlighting key findings and making recommendations on business decisions based
 your findings.
 
 You will be required to go through the following stages:
-● Define the Research Question
-● Data Importation
+● Define the Research Question<br />
+● Data Importation<br />
 ● Data Exploration
 ● Data Cleaning
 ● Data Analysis (Univariate and Bivariate)
